@@ -44,7 +44,7 @@
 <img src="https://skillicons.dev/icons?i=rust,go,ts,python,postgres,mongodb,redis,graphql&perline=8" />
 <br/>
 <!-- Row 2: Environment -->
-<img src="https://skillicons.dev/icons?i=actix,react,nextjs,docker,kubernetes,nodejs,fastapi,apple&perline=8" />
+<img src="https://skillicons.dev/icons?i=actix,react,nextjs,docker,kubernetes,terraform,nodejs,fastapi&perline=8" />
 
 </div>
 
