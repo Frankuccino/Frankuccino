@@ -54,7 +54,7 @@
 <div align="center">
 
 <!-- Row 1: Streak Stats (Espresso to Latte Gradient) -->
-<img src="https://streak-stats.demolab.com?user=Frankuccino&theme=dark&background=1a1a1a&fire=DDB892&ring=B08968&currStreakLabel=EDE0D4&hide_border=true" width="450px" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Frankuccino&theme=dark&background=1a1a1a&fire=DDB892&ring=B08968&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=EDE0D4&sideLabels=B08968&dates=888888&hide_border=true">
 
 <br/>
 
